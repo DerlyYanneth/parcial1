@@ -1,13 +1,12 @@
-#🍴 MiAppRecetas
+## 🍴 MiAppRecetas
 
 MiAppRecetas es una aplicación móvil desarrollada con React Native + Expo + API TheMealDB, que permite descubrir, consultar y guardar recetas de manera sencilla y rápida.
 
-
 ## Características
 
--Explorar por categoría: Lista de recetas filtradas por categoría.
+-Explorar por categoría: Lista de categorías.
 
--Receta aleatoria: Muestra una receta al azar de la API.
+-Receta: Lista de recetas según la categoría.
 
 -Detalle de receta: Ingredientes, pasos de preparación e incluso un video de YouTube integrado.
 
