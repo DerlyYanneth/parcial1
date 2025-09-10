@@ -33,7 +33,7 @@ npm -v
 1. **Clona el repositorio:**
 
 ```bash
-https://github.
+https://github.com/DerlyYanneth/parcial1.git
 
 ```
 2. Ingresa a la carpeta del proyecto:
